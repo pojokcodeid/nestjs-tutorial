@@ -1,0 +1,7 @@
+### creatre user
+POST http://localhost:3000/user
+Content-Type: application/json
+{
+  "email":"code@gmail.com",
+  "name":"Code"
+}
